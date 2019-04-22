@@ -20,5 +20,6 @@ def swap_elements(arr)
   [blake, scott, ashley]
 end
 
-def reverse_array
+def reverse_array(arr)
+  arr.reverse
 end
