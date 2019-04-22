@@ -25,7 +25,7 @@ def reverse_array(arr)
 end
 
 def kesha_maker(arr)
- arr.each_with_index.map { |x,i| x[0,2] + '$' + x[3, 2] }
+ arr.each_with_index.map { |x,i| x[0,2] + '$' + x[3...] }
 end
 
 def find_a(arr)
