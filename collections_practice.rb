@@ -17,7 +17,7 @@ def swap_elements(arr)
   blake = arr[0]
   ashley = arr[1]
   scott = arr[2]
-  black, scott, ashley
+  [black, scott, ashley]
 end
 
 def reverse_array
