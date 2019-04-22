@@ -31,6 +31,8 @@ def kesha_maker(arr, a)
   [blake, scott, ashley]
 end
 
+def find_a(arr)
+end
 
 def sum_array(arr)
   arr.inject(0){|sum,x| sum + x }
