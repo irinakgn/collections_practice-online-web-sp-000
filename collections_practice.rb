@@ -33,4 +33,5 @@ end
 
 
 def add_s(arr)
+  arr.map { |e| "#{e}s"  }
 end
