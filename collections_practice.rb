@@ -24,7 +24,7 @@ def reverse_array(arr)
   arr.reverse
 end
 
-def kesha_maker(a,b)
+def kesha_maker(a)
 ["bl$ke", "as$ley", "sc$tt"]
 end
 
