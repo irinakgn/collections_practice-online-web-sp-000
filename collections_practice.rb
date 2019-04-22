@@ -30,3 +30,7 @@ def kesha_maker(arr, a)
   scott = arr[2]
   [blake, scott, ashley]
 end
+
+
+def add_s(arr)
+end
