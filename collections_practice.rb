@@ -33,6 +33,6 @@ end
 
 
 def add_s(arr)
-  arr.map { |e, i|  "#{e}s"  }
+  
   arr.each_with_index.map { |x,i| i == 1? x :  "#{e}s"  }
 end
