@@ -23,3 +23,10 @@ end
 def reverse_array(arr)
   arr.reverse
 end
+
+def kesha_maker(arr)
+  blake = arr[0].replace('s', '$')
+  ashley = arr[1]
+  scott = arr[2]
+  [blake, scott, ashley]
+end
