@@ -24,7 +24,7 @@ def reverse_array(arr)
   arr.reverse
 end
 
-def kesha_maker(a)
+def kesha_maker(arr)
  arr.each_with_index.map { |x,i| x[2] ='$'  }
 end
 
