@@ -25,10 +25,7 @@ def reverse_array(arr)
 end
 
 def kesha_maker(arr, a)
-  blake = arr[0].replace('a', a)
-  ashley = arr[1]
-  scott = arr[2]
-  [blake, scott, ashley]
+
 end
 
 def find_a(arr)
