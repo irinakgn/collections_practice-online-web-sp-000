@@ -32,6 +32,10 @@ def kesha_maker(arr, a)
 end
 
 
+def sum_array(arr)
+  arr.inject(0){|sum,x| sum + x }
+end
+
 def add_s(arr)
   arr.each_with_index.map { |x,i| i == 1? x :  "#{x}s"  }
 end
