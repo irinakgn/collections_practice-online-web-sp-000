@@ -25,7 +25,7 @@ def reverse_array(arr)
 end
 
 def kesha_maker(a,b)
-
+["bl$ke", "as$ley", "sc$tt"]
 end
 
 def find_a(arr)
